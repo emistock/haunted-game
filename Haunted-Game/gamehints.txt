@@ -1,0 +1,41 @@
+Game Cheats:
+
+1. You must find the flashlight in order to see the game maps, otherwise you are
+playing in the dark. If you throw the flashlight at a monster, there is a 50%
+chance of the flashlight breaking (the flashlight does no damage to the monster).
+
+2. There is 20% chance of a monster attack on a normal tile, and a 50% chance of
+a monster attack on an item tile.
+
+3. Full Game Map:
+
+                              Patio (EXIT) <--> Dining
+                                    +             +
+                                    |             |
+                                    +             +
+	              Study <--> Kitchen <-->  Living
+                                    +
+                                    |
+                                    +
+                   Bedroom <--> Main Hall (START)
+                      +
+                      |
+                      +
+                    Bath
+
+4. The Bedroom contains a key that can be used to open the study. You must
+obtain the rope and use it on the railing of the patio in order to escape and
+win the game.
+
+5. After 1000 game movements, the reaper will kill the player if they have not
+yet escaped or been killed by monsters.
+
+6. Certain items can be used as protection against monsters. A knife (found in
+the kitchen) allows the player to attack the monster and possibly not take any
+damage. The towel (found in the bathroom) makes the monsters think the player is
+a ghost, so they leave the player alone. A helmet, when used, will boost the
+player’s defense against monsters by giving them armor.
+
+7. The bowl of candy in the living room can be used to restore health
+(it is not added to the player’s item list), but the apple is poisonous and will
+immediately kill the player.

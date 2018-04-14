@@ -1,0 +1,25 @@
+                                  _______
+                             .--'' __|__ ``--.
+                           .'  .--'__|__`--.  `.
+                         .'     .-' _|_ `-.     `.
+                        .'    ___  ' | `  ___    `.
+                       :     ' _ `-._`_.-' _ `     :
+                       |    .-' `.   `   .' `-.    |
+                       |    `....:_     _:....`    |
+                       | .:::::::::\_ _/:::::::::. |
+                       | ::::::::::::^:::::::::::: |
+                       | ::::::::::::::::::::::::: |
+                       |  `````:::::::::::::'''''  |
+                        \`-._  ; :       : ;  _.-'/
+                         \   `-`.:       :.'-'   /
+                          \`-._ `:       :' _.-'/
+                      jgs  \-._`-`.     .'-'_.-/
+                            \  `-.`.___.'.-'  /
+                             `-.____________.'
+
+
+You find an interesting object on the living room shelf. It seems like it could
+offer you protection. You feel like it could be useful for later, so you place
+it in your bag.
+
+                           ***HELMET OBTAINED***
